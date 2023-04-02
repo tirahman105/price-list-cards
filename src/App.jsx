@@ -14,7 +14,7 @@ function App() {
     <div className="App">
       <Navbar></Navbar>
 
-      <h1 className='text-2xl text-purple-900'>This is tailwind project</h1>
+      <h1 className='text-2xl text-blue-700'>This is tailwind project</h1>
       
     </div>
   )
