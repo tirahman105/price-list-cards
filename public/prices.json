@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Basic",
+      "price": 50,
+      "features": ["Gym access during regular hours", "Locker room access", "Free parking"]
+    },
+    {
+      "id": 2,
+      "name": "Premium",
+      "price": 80,
+      "features": ["24/7 gym access", "Free PT sessions", "Sauna and steam room"]
+    },
+    {
+      "id": 3,
+      "name": "Platinum",
+      "price": 120,
+      "features": ["24/7 gym access", "Unlimited PT sessions", "Group classes", "Smoothie bar"]
+    }
+  ]
+  
